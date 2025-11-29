@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(args.Length);
+            Console.WriteLine($"Количество аргументов: {args.Length}");
             int?[] numbers = new int?[args.Length];
             int sum = 0;
             for (int i = 0; i < args.Length; i++) {
@@ -20,7 +20,7 @@
                     Console.WriteLine($"{i + 1} элемент не является числом, значение : '{args[i]}'");
                 }
             }
-            Console.WriteLine($"Сумма чисело равна: {sum}");
+            Console.WriteLine($"Сумма чисел равна: {sum}");
             //for (int i = 0; i < numbers.Length; i++)
             //{
             //    for(int j=0; j< numbers.Length - 1; j++)
