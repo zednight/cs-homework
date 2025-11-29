@@ -2,5 +2,6 @@
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="HellowWorld2/HellowWorld2.csproj" />
   <Project Path="Lab2/Lab2.csproj" />
+  <Project Path="Lab3.1/Lab3.1.csproj" Id="8e82d908-e154-4a29-a763-ef98faa2ad89" />
   <Project Path="Vars/Vars.csproj" Id="5cdf6a21-a34e-4112-b4b5-3d7a7e42f13d" />
 </Solution>
