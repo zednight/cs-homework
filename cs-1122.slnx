@@ -8,5 +8,6 @@
   <Project Path="Lab4/Lab4.csproj" Id="48dd72f3-2b95-49a4-ba06-93c498566b24" />
   <Project Path="Lab5/Lab5.csproj" Id="1e733869-0f59-4bcf-b33e-042b3f5eb6ca" />
   <Project Path="Lab6/Lab6.csproj" Id="fa341055-9176-44c5-86cc-a07ad62b7d8b" />
+  <Project Path="Lab7/Lab7.csproj" />
   <Project Path="Vars/Vars.csproj" Id="5cdf6a21-a34e-4112-b4b5-3d7a7e42f13d" />
 </Solution>
