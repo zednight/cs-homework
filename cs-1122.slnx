@@ -10,5 +10,6 @@
   <Project Path="Lab6/Lab6.csproj" Id="fa341055-9176-44c5-86cc-a07ad62b7d8b" />
   <Project Path="Lab7/Lab7.csproj" />
   <Project Path="Lab8/Lab8.csproj" Id="3284b466-be48-4325-9527-f27ef3ba0d2e" />
+  <Project Path="Lab9/Lab9.csproj" Id="1c4b580f-b1c0-4a97-960c-c6646d371c7b" />
   <Project Path="Vars/Vars.csproj" Id="5cdf6a21-a34e-4112-b4b5-3d7a7e42f13d" />
 </Solution>
