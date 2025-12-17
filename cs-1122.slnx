@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="HellowWorld2/HellowWorld2.csproj" />
+  <Project Path="Lab10/Lab10.csproj" Id="3d33fbc9-bcc9-439e-b696-05ab8b18c436" />
   <Project Path="Lab2/Lab2.csproj" />
   <Project Path="Lab3.1/Lab3.1.csproj" Id="8e82d908-e154-4a29-a763-ef98faa2ad89" />
   <Project Path="Lab3.2/Lab3.2.csproj" Id="8340f4d8-391a-44d3-af44-7d048264d2a6" />

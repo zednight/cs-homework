@@ -1,0 +1,23 @@
+[
+  {
+    "X": 4,
+    "Y": 5,
+    "ShapeType": "Point",
+    "Color": "red"
+  },
+  {
+    "X1": 2,
+    "Y1": 2,
+    "X2": 3,
+    "Y2": 3,
+    "ShapeType": "Line",
+    "Color": "yellow"
+  },
+  {
+    "X": 3,
+    "Y": 8,
+    "Radius": 39.0,
+    "ShapeType": "Circle",
+    "Color": "blue"
+  }
+]
