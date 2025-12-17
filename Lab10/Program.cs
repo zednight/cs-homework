@@ -5,7 +5,7 @@ namespace Lab10
     internal class Program
     {
         const string saveFileName = @"..\..\..\result\scene.json";
-        const string loadFileName = @"..\..\..\result\scene.json";
+        const string loadFileName = @"..\..\..\result\scene2.json";
         static void Main(string[] args)
         {
             Scene sc = new Scene([
