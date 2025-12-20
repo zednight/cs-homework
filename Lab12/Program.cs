@@ -23,15 +23,15 @@ namespace Lab12
                 .Add(c2)
                 .Add(c3)
                 .Add(c4);
-                //.Scale(3)
-                //.DrawScene();
-                //.Save(saveFileName)
-                //.Clear()
-                //.DrawScene("after clear");
+            //.Scale(3)
+            //.DrawScene();
+            //.Save(saveFileName)
+            //.Clear()
+            //.DrawScene("after clear");
 
-            Console.WriteLine($"{c1.Info()} ===> {(c1 == c2 ? "Equals" : "Not equals")} <=== {c2.Info()}");
-            Console.WriteLine($"{c1.Info()} ===> {(c1 == c3 ? "Equals" : "Not equals")} <=== {c3.Info()}");
-            Console.WriteLine($"{c1.Info()} ===> {(c1 == c4 ? "Equals" : "Not equals")} <=== {c4.Info()}");
+            Console.WriteLine($"{c1.Info()} ===> {(c1 == c2 ? "Equals" : "Not equals"),10} <=== {c2.Info()}");
+            Console.WriteLine($"{c1.Info()} ===> {(c1 == c3 ? "Equals" : "Not equals"),10} <=== {c3.Info()}");
+            Console.WriteLine($"{c1.Info()} ===> {(c1 == c4 ? "Equals" : "Not equals"),10} <=== {c4.Info()}");
             if (c1 == c2)
                 Console.WriteLine("c1==c2");
             else
